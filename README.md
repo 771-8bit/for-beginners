@@ -1,2 +1,1 @@
-# for-beginners
- Arduino sample codes for beginners
+[電子工作入門](https://771-8bit.com/blog/for-beginners/)のサンプルコードです。
